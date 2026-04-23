@@ -1,0 +1,67 @@
+
+p{
+    font-family: arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+
+
+.title{
+   
+    font-weight: bold;
+    font-size: 30px;
+    width: 800px;
+    line-height: 40px;
+    margin-bottom: 5px;
+}
+
+.stats{
+    
+    font-size: 18px;
+    color: rgb(94, 93, 93);
+    margin-bottom: 25;
+    margin-top: 19;
+}
+
+.author{
+   
+    color: rgb(41, 40, 40);
+    font-size: 25px;
+    margin-bottom: 50;
+}
+
+.description{
+   
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    width: 900px;
+    line-height: 30px;
+    margin-bottom: 100px;
+}
+.apple{
+    margin-bottom: 50px;
+    font-size: 15px;
+    color: white;
+    background-color: rgb(227, 65, 64);
+    text-align: center;
+    padding: 15px;
+    width: 450px;
+    border-radius: 10px;
+
+}
+.link{
+    cursor: pointer;
+
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+
+
+
+

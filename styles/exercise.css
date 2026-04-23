@@ -1,0 +1,258 @@
+
+
+
+.uber{
+    background-color: black;
+    border: none;
+    color: white;
+    height: 35px;
+    width: 110px;
+    margin-right: 10px;
+    transition: 0.5s;
+}
+
+.uber:hover{
+    opacity: 0.7;
+}
+
+.amazon{
+ background-color: rgb(255, 216, 20);
+    border: none;
+    color: black;
+    height: 35px;
+    width: 130px;
+    margin-right: 10px;
+    border-radius: 50px;
+    transition: background-color 1s;
+}
+.amazon:hover{
+    background-color: rgb(219, 185, 16); ;
+}
+
+.github{
+    background-color: rgb(46, 164, 79);
+    border: none;
+    color: white;
+    height: 35px;
+    width: 80px;
+    margin-right: 10px;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: 0.5s;
+    
+}
+
+.github:hover{
+ box-shadow: 5px 5px 10px rgba(0, 0 ,0 ,0.15);
+}
+
+.bootstrap{
+     background-color: rgb(121, 82, 179);
+    border: none;
+    color: white;
+    height: 35px;
+    width: 110px;
+    margin-right: 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background-color 0.5s
+}
+
+.bootstrap:hover{
+    background-color:rgb(113, 62, 189);
+}
+
+.linkedin{
+     background-color: rgb(10, 102, 194);
+    border: none;
+    color: white;
+    height: 35px;
+    width: 200px;
+    margin-right: 10px;
+    border-radius: 50px;
+    font-weight: 700;
+    transition: background-color 0.5s
+}
+
+.linkedin:hover{
+    background-color: rgb(10, 75, 141);
+}
+
+
+
+  /* text exercise */
+  .tahoma{
+    font-family: tahoma;
+  }
+.bd{
+    font-family: arial;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 6;
+}
+
+.sale{
+    font-family: arial;
+    font-style: italic;
+    margin-top: 0;
+    color: red;
+}
+
+.course{
+    font-family: verdana;
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.btp{
+    font-family: verdana;
+    color: rgb(150, 147, 147);
+    margin-top: 6;
+}
+
+.cd{
+    font-family: verdana;
+    font-size: 25px;
+    width: 450px;
+}
+
+.gs{
+    background-color: rgb(32, 122, 58);
+    border: none;
+    color: white;
+    padding: 12px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 6px;
+    font-weight: 600;
+}
+
+.shop{
+    font-family: arial;
+    margin-top: 100px;
+    margin-bottom: 20;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.work{
+    font-family: arial;
+    margin-top: 0;
+    padding-left: 90px;
+    font-size: 20px;
+}
+
+.link{
+    font-family: arial;
+    font-size: 18px;
+    padding-left: 170px;
+    color: rgb(59, 59, 233);
+}
+
+.new{
+    color: rgb(231, 88, 36);
+    font-family: arial;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 0;
+    padding-left: 228px;
+}
+
+.device{
+    font-family: arial;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 6;
+    margin-bottom: 0;
+    padding-left: 170px;
+}
+
+.pro{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 42px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.price{
+    font-family: arial;
+    font-size: 22px;
+    margin-top: 10px;
+    color: gray;
+    padding-left: 179px;
+    margin-bottom: 20;
+}
+.buy{
+     background-color: rgb(13, 89, 165);
+    border: none;
+    color: white;
+   padding: 10px;
+    width: 60px;
+   margin-top: 0;
+    border-radius: 50px;
+    font-weight: 700;
+    margin-left: 210px;
+   
+}
+
+.num{
+    font-family: arial;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+.usd{
+    color: gray;
+    font-size: 25px;
+}
+
+.percent{
+ margin-top: 20px;
+ color: rgb(1, 95, 1);
+ font-size: 23px;
+
+}
+
+.ah{
+    font-family: arial;
+    color: gray;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+
+.dec{
+    color: rgb(170, 4, 4);
+}
+
+.free{
+    font-family: arial;
+    font-size: 20px;
+   font-weight: bold;
+}
+.camp{
+    color: gray;
+    font-weight: normal;
+}
+
+.p{
+    font-family: arial;
+    width: 699px;
+    font-size: 20px;
+}
+
+.p1{
+    font-family: arial;
+    font-size: 20px;
+}
+
+.acc{
+    color: rgb(52, 121, 211);
+}
+
+
+
+
