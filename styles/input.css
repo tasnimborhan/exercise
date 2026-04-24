@@ -1,0 +1,11 @@
+.goog{
+    width: 200px;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px rgba(0, 0 ,0 ,0.15);
+    margin-left: 10px;
+    padding: 4px;
+    font-size: 10px;
+    
+  
+}
